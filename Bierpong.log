@@ -1,0 +1,840 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.8.25)  11 SEP 2025 20:29
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/smion/Bierpongbuch/Bierpong.tex
+(/home/smion/Bierpongbuch/Bierpong.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@chapter=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count199
+\U@D=\dimen149
+\l@unhyphenated=\language89
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count266
+ (/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2024/01/19 v2.14 German support for babel (post-1996 orthography)
+ (/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2024/01/19 v2.14 German support for babel (post-1996 orthography)
+Package babel Info: Making " an active character on input line 122.
+))) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/de/babel-ngerman.tex
+Package babel Info: Importing font and identification data for ngerman
+(babel)             from babel-de.ini. Reported on input line 11.
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks19
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen152
+\captionmargin=\dimen153
+\caption@leftmargin=\dimen154
+\caption@rightmargin=\dimen155
+\caption@width=\dimen156
+\caption@indent=\dimen157
+\caption@parindent=\dimen158
+\caption@hangindent=\dimen159
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count267
+\c@continuedfloat=\count268
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count269
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count270
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count271
+) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count272
+)
+\@linkdim=\dimen160
+\Hy@linkcounter=\count273
+\Hy@pagecounter=\count274
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count275
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count276
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen161
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count277
+\Field@Width=\dimen162
+\Fld@charsize=\dimen163
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count278
+\c@Item=\count279
+\c@Hfootnote=\count280
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count281
+\c@bookmark@seq@number=\count282
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip50
+) (/usr/share/texlive/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count283
+\l__pdf_internal_box=\box51
+) (./Bierpong.aux)
+\openout1 = `Bierpong.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(52.80832pt, 289.07999pt, 79.21248pt)
+* v-part:(T,H,B)=(94.46313pt, 361.34999pt, 141.69475pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=289.07999pt
+* \textheight=361.34999pt
+* \oddsidemargin=-19.46167pt
+* \evensidemargin=6.94249pt
+* \topmargin=-9.68065pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=51.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen164
+\scratchbox=\box52
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen165
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 43.
+ (./Bierpong.out) (./Bierpong.out)
+\@outlinefile=\write3
+\openout3 = `Bierpong.out'.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(52.80832pt, 289.07999pt, 79.21248pt)
+* v-part:(T,H,B)=(170.71652pt, 361.34999pt, 65.44136pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=289.07999pt
+* \textheight=361.34999pt
+* \oddsidemargin=-19.46167pt
+* \evensidemargin=6.94249pt
+* \topmargin=66.57274pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=51.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ [1
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.71 \restoregeometry
+                      [2{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 73--79
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.79 
+      [3
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.80 \tableofcontents
+                      [4]
+Overfull \hbox (60.74889pt too wide) in paragraph at lines 80--80
+[]\OT1/cmr/bx/n/24.88 Inhaltsverzeichnis  
+ []
+
+(./Bierpong.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.16 ...erline {3.2.2}Spiel}{19}{subsection.3.2.2}
+                                                  % [5
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.40 ...{4.14}Becher vorstellen}{38}{section.4.14}
+                                                  % [6])
+\tf@toc=\write4
+\openout4 = `Bierpong.toc'.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.81 \cleardoublepage
+                      [7]
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.81 \cleardoublepage
+                      [8
+
+] [1
+
+] [2] [3
+
+] [4
+
+]
+Kapitel 1.
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
+
+ []
+
+[6]
+Overfull \hbox (1.43367pt too wide) in paragraph at lines 97--98
+\OT1/cmr/m/n/12 Die-sem ist es dann er-laubt einen Stan-dard-wurf durch-
+ []
+
+
+Overfull \hbox (2.53922pt too wide) in paragraph at lines 98--99
+[]\OT1/cmr/m/n/12 Ein Stan-dard-wurf, bei dem der Wer-fer kom-plett nackt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+[7] [8] [9] [10
+
+]
+Kapitel 2.
+
+Underfull \vbox (badness 4505) has occurred while \output is active []
+
+ [11]
+<beerpongregeln_ohne_legende.png, id=342, 1903.11pt x 4085.2625pt>
+File: beerpongregeln_ohne_legende.png Graphic file (type png)
+<use beerpongregeln_ohne_legende.png>
+Package pdftex.def Info: beerpongregeln_ohne_legende.png  used on input line 120.
+(pdftex.def)             Requested size: 199.46588pt x 428.12369pt.
+<legende.png, id=344, 1178.4025pt x 1178.4025pt>
+File: legende.png Graphic file (type png)
+<use legende.png>
+Package pdftex.def Info: legende.png  used on input line 126.
+(pdftex.def)             Requested size: 83.83125pt x 83.8272pt.
+
+
+LaTeX Warning: Float too large for page by 110.87367pt on input line 131.
+
+[12] [13 <./beerpongregeln_ohne_legende.png> <./legende.png>] [14
+
+]
+Kapitel 3.
+
+Overfull \hbox (28.56952pt too wide) in paragraph at lines 135--136
+\OT1/cmr/m/n/12 Bierpong-spiels sche-ma-tisch dar-ge-stellt. Ge-naue-re Er-kl[]arungen
+ []
+
+<Bierpongflowneu.png, id=361, 1268.74pt x 1276.77pt>
+File: Bierpongflowneu.png Graphic file (type png)
+<use Bierpongflowneu.png>
+Package pdftex.def Info: Bierpongflowneu.png  used on input line 139.
+(pdftex.def)             Requested size: 342.56438pt x 344.73251pt.
+
+Overfull \hbox (10.80527pt too wide) in paragraph at lines 139--140
+ []| [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 7.8825pt on input line 142.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15] [16 <./Bierpongflowneu.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 152--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--156
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 157--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--162
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+Underfull \vbox (badness 6316) has occurred while \output is active []
+
+ [19]
+<enge_muschi.png, id=389, 1469.49pt x 1399.2275pt>
+File: enge_muschi.png Graphic file (type png)
+<use enge_muschi.png>
+Package pdftex.def Info: enge_muschi.png  used on input line 171.
+(pdftex.def)             Requested size: 125.46237pt x 119.45584pt.
+<no1.png, id=390, 1469.49pt x 1399.2275pt>
+File: no1.png Graphic file (type png)
+<use no1.png>
+Package pdftex.def Info: no1.png  used on input line 179.
+(pdftex.def)             Requested size: 125.46237pt x 119.45584pt.
+<no2.png, id=391, 1469.49pt x 1399.2275pt>
+File: no2.png Graphic file (type png)
+<use no2.png>
+Package pdftex.def Info: no2.png  used on input line 186.
+(pdftex.def)             Requested size: 125.46237pt x 119.45584pt.
+<yes1.png, id=392, 1469.49pt x 1399.2275pt>
+File: yes1.png Graphic file (type png)
+<use yes1.png>
+Package pdftex.def Info: yes1.png  used on input line 192.
+(pdftex.def)             Requested size: 125.46237pt x 119.45584pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--199
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--201
+
+ []
+
+[20]
+Overfull \hbox (9.52803pt too wide) in paragraph at lines 204--205
+\OT1/cmr/m/n/12 Beide Spie-ler ei-nes Teams d[]urfen nach-ein-an-der, oder gleich-
+ []
+
+
+Overfull \hbox (11.25995pt too wide) in paragraph at lines 204--205
+\OT1/cmr/m/n/12 zei-tig, ganz wie sie wol-len, einen Stan-dard-wurf durchf[]uhren. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--209
+
+ []
+
+[21 <./enge_muschi.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22 <./no1.png> <./no2.png> <./yes1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 209--212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--222
+
+ []
+
+
+Overfull \hbox (2.44339pt too wide) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 Einer der Spie-ler mit 3 OnFire-Stacks darf einen Stan-
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 227--229
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--232
+
+ []
+
+[24]
+Overfull \hbox (9.68913pt too wide) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 ner-team noch auf dem Tisch ste-hen trin-ken. Hier-bei k[]onnen
+ []
+
+[25]
+<bilder.png, id=442, 1029.8475pt x 1029.8475pt>
+File: bilder.png Graphic file (type png)
+<use bilder.png>
+Package pdftex.def Info: bilder.png  used on input line 256.
+(pdftex.def)             Requested size: 102.99078pt x 102.99078pt.
+
+Underfull \vbox (badness 6691) has occurred while \output is active []
+
+ [26] [27 <./Bilder.png>] [28
+
+]
+Kapitel 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--266
+
+ []
+
+[29] [30]
+Underfull \hbox (badness 10000) in paragraph at lines 277--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--281
+
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 283--285
+
+ []
+
+[32] [33]
+Underfull \hbox (badness 10000) in paragraph at lines 295--299
+
+ []
+
+
+Overfull \hbox (1.4295pt too wide) in paragraph at lines 295--299
+\OT1/cmr/m/n/12 Sollte beim Tref-fen des Bit-ch-cups der Wer-fer be-reits nackt
+ []
+
+[34]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
+Overfull \hbox (3.24615pt too wide) in paragraph at lines 312--315
+\OT1/cmr/m/n/12 be-kommt das Geg-ner-team zwei zus[]atzliche Stan-dardw[]urfe
+ []
+
+
+Overfull \hbox (1.29895pt too wide) in paragraph at lines 312--315
+\OT1/cmr/m/n/12 kann zur Dis-qua-li-fi-ka-ti-on f[]uhren, vor al-lem wenn der Wurf
+ []
+
+
+Overfull \hbox (14.45853pt too wide) in paragraph at lines 317--318
+\OT1/cmr/m/n/12 Tisch-rand ste-hen, dann m[]ussen al-le Zu-schau-er einen Schluck
+ []
+
+[37] [38]
+Overfull \hbox (10.92525pt too wide) in paragraph at lines 330--331
+[]\OT1/cmr/m/n/12 Die Py-ra-mi-de f[]ur die Verl[]angerung stel-len und auff[]ullen 
+ []
+
+[39]
+Overfull \hbox (16.47797pt too wide) in paragraph at lines 344--345
+\OT1/cmr/m/n/12 nen Tricks-hot be-kommt ein Spie-ler einen OnFire-Stack(Beim
+ []
+
+
+Underfull \vbox (badness 1817) has occurred while \output is active []
+
+ [40] [41] [42
+
+] [43] [44]
+Anhang A.
+[45
+
+] [46
+
+] (./Bierpong.lof)
+\tf@lof=\write5
+\openout5 = `Bierpong.lof'.
+
+ [47] [48
+
+]
+Anhang B.
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
+
+ []
+
+[49]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(52.80832pt, 289.07999pt, 79.21248pt)
+* v-part:(T,H,B)=(36.64713pt, 505.89pt, 54.97075pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=289.07999pt
+* \textheight=505.89pt
+* \oddsidemargin=-19.46167pt
+* \evensidemargin=6.94249pt
+* \topmargin=-67.49666pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=51.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Overfull \hbox (14.03804pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 50 \OT1/cmr/m/sl/12 ANHANG B.  ANTR[]AGE AUF REGEL[]ANDERUNGEN
+ []
+
+[50
+
+] [51]
+Overfull \hbox (14.03804pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 52 \OT1/cmr/m/sl/12 ANHANG B.  ANTR[]AGE AUF REGEL[]ANDERUNGEN
+ []
+
+[52] [53]
+Overfull \hbox (14.03804pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 54 \OT1/cmr/m/sl/12 ANHANG B.  ANTR[]AGE AUF REGEL[]ANDERUNGEN
+ []
+
+[54] [55]
+Overfull \hbox (14.03804pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 56 \OT1/cmr/m/sl/12 ANHANG B.  ANTR[]AGE AUF REGEL[]ANDERUNGEN
+ []
+
+[56] [57]
+Overfull \hbox (14.03804pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 58 \OT1/cmr/m/sl/12 ANHANG B.  ANTR[]AGE AUF REGEL[]ANDERUNGEN
+ []
+
+[58] [59]
+Overfull \hbox (14.03804pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 60 \OT1/cmr/m/sl/12 ANHANG B.  ANTR[]AGE AUF REGEL[]ANDERUNGEN
+ []
+
+[60
+
+
+]
+Anhang C.
+<Bierpongregeln.png, id=622, 1029.8475pt x 1029.8475pt>
+File: Bierpongregeln.png Graphic file (type png)
+<use Bierpongregeln.png>
+Package pdftex.def Info: Bierpongregeln.png  used on input line 371.
+(pdftex.def)             Requested size: 102.99078pt x 102.99078pt.
+[61] [62 <./Bierpongregeln.png>] (./Bierpong.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+Package rerunfilecheck Info: File `Bierpong.out' has not changed.
+(rerunfilecheck)             Checksum: 29C38003D0EDC33DD029BF2BC062A55B;6090.
+ ) 
+Here is how much of TeX's memory you used:
+ 11758 strings out of 474222
+ 190497 string characters out of 5748733
+ 1932975 words of memory out of 5000000
+ 33744 multiletter control sequences out of 15000+600000
+ 564265 words of font info for 56 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,9n,79p,661b,670s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on Bierpong.pdf (70 pages, 26628194 bytes).
+PDF statistics:
+ 701 PDF objects out of 1000 (max. 8388607)
+ 591 compressed objects within 6 object streams
+ 152 named destinations out of 1000 (max. 500000)
+ 438 words of extra memory for PDF output out of 10000 (max. 10000000)
+

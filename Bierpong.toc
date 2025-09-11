@@ -1,0 +1,50 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {part}{I\hspace {1em}Regeln}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}Definitionen}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Becher trinken}{5}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Standardwurf}{6}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Trickshot}{6}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Treffer}{7}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Spielaufbau}{11}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Spielablauf}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Skizze des Spielablaufs}{15}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Genaue Regelungen}{17}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Vor dem Spiel}{17}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.1}Teameinteilung}{17}{subsubsection.3.2.1.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.2}Seiteneinteilung}{17}{subsubsection.3.2.1.2}%
+\contentsline {subsubsection}{\numberline {3.2.1.3}Entscheiden, wer anfängt}{18}{subsubsection.3.2.1.3}%
+\contentsline {subsection}{\numberline {3.2.2}Spiel}{19}{subsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.1}Umstellphase}{20}{subsubsection.3.2.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2.2}Reguläre Wurfphase}{21}{subsubsection.3.2.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.3}BallsBackphase}{23}{subsubsection.3.2.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.2.4}OnFirephase}{23}{subsubsection.3.2.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.2.5}Trickshotphase}{24}{subsubsection.3.2.2.5}%
+\contentsline {subsection}{\numberline {3.2.3}Spielende}{25}{subsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.3.1}Übrige Becher trinken}{26}{subsubsection.3.2.3.1}%
+\contentsline {subsubsection}{\numberline {3.2.3.2}Nackte Meile}{26}{subsubsection.3.2.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.3.3}Foto}{27}{subsubsection.3.2.3.3}%
+\contentsline {chapter}{\numberline {4}Weitere Regeln}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Bombe}{29}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Ellenbogen}{30}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Redemption}{31}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Aufsetzer}{32}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Deathcup}{33}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Island}{33}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Letzter}{34}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Bitchcup}{34}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Fingern/Blasen}{35}{section.4.9}%
+\contentsline {section}{\numberline {4.10}80ml}{36}{section.4.10}%
+\contentsline {section}{\numberline {4.11}Weltraumlaser}{36}{section.4.11}%
+\contentsline {section}{\numberline {4.12}Ball im Flug berühren}{37}{section.4.12}%
+\contentsline {section}{\numberline {4.13}Communitycup}{37}{section.4.13}%
+\contentsline {section}{\numberline {4.14}Becher vorstellen}{38}{section.4.14}%
+\contentsline {section}{\numberline {4.15}Becher berühren}{38}{section.4.15}%
+\contentsline {section}{\numberline {4.16}Stacks}{39}{section.4.16}%
+\contentsline {subsection}{\numberline {4.16.1}Trickshot Stacks}{39}{subsection.4.16.1}%
+\contentsline {subsection}{\numberline {4.16.2}OnFire-Stacks}{40}{subsection.4.16.2}%
+\contentsline {section}{\numberline {4.17}Behinderung}{40}{section.4.17}%
+\contentsline {section}{\numberline {4.18}Ball bleibt auf Bechern liefen}{41}{section.4.18}%
+\contentsline {part}{II\hspace {1em}Anhang}{43}{part.2}%
+\contentsline {chapter}{\numberline {A}Abbildungsverzeichnis}{45}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Anträge auf Regeländerungen}{49}{appendix.B}%
+\contentsline {chapter}{\numberline {C}RegelPDF}{61}{appendix.C}%
