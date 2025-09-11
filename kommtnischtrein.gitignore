@@ -23,3 +23,6 @@
 # temporäre Editor-Dateien
 *.swp
 *.bak
+
+# pdfs
+*.pdf

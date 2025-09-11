@@ -20,9 +20,9 @@
 \contentsline {subsubsection}{\numberline {3.2.2.4}OnFirephase}{23}{subsubsection.3.2.2.4}%
 \contentsline {subsubsection}{\numberline {3.2.2.5}Trickshotphase}{24}{subsubsection.3.2.2.5}%
 \contentsline {subsection}{\numberline {3.2.3}Spielende}{25}{subsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.3.1}Übrige Becher trinken}{26}{subsubsection.3.2.3.1}%
+\contentsline {subsubsection}{\numberline {3.2.3.1}Übrige Becher trinken}{25}{subsubsection.3.2.3.1}%
 \contentsline {subsubsection}{\numberline {3.2.3.2}Nackte Meile}{26}{subsubsection.3.2.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.3.3}Foto}{27}{subsubsection.3.2.3.3}%
+\contentsline {subsubsection}{\numberline {3.2.3.3}Foto}{26}{subsubsection.3.2.3.3}%
 \contentsline {chapter}{\numberline {4}Weitere Regeln}{29}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Bombe}{29}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Ellenbogen}{30}{section.4.2}%
@@ -39,12 +39,17 @@
 \contentsline {section}{\numberline {4.13}Communitycup}{37}{section.4.13}%
 \contentsline {section}{\numberline {4.14}Becher vorstellen}{38}{section.4.14}%
 \contentsline {section}{\numberline {4.15}Becher berühren}{38}{section.4.15}%
-\contentsline {section}{\numberline {4.16}Stacks}{39}{section.4.16}%
-\contentsline {subsection}{\numberline {4.16.1}Trickshot Stacks}{39}{subsection.4.16.1}%
-\contentsline {subsection}{\numberline {4.16.2}OnFire-Stacks}{40}{subsection.4.16.2}%
-\contentsline {section}{\numberline {4.17}Behinderung}{40}{section.4.17}%
-\contentsline {section}{\numberline {4.18}Ball bleibt auf Bechern liefen}{41}{section.4.18}%
+\contentsline {section}{\numberline {4.16}Airball}{39}{section.4.16}%
+\contentsline {section}{\numberline {4.17}Stacks}{39}{section.4.17}%
+\contentsline {subsection}{\numberline {4.17.1}Trickshot Stacks}{40}{subsection.4.17.1}%
+\contentsline {subsection}{\numberline {4.17.2}OnFire-Stacks}{40}{subsection.4.17.2}%
+\contentsline {subsection}{\numberline {4.17.3}OnIce-Stacks}{41}{subsection.4.17.3}%
+\contentsline {section}{\numberline {4.18}Nervenberuhigungsbecher}{41}{section.4.18}%
+\contentsline {section}{\numberline {4.19}Behinderung}{41}{section.4.19}%
+\contentsline {section}{\numberline {4.20}Ball auf Becher}{42}{section.4.20}%
+\contentsline {subsection}{\numberline {4.20.1}liegen bleiben}{42}{subsection.4.20.1}%
+\contentsline {subsection}{\numberline {4.20.2}springen}{42}{subsection.4.20.2}%
 \contentsline {part}{II\hspace {1em}Anhang}{43}{part.2}%
 \contentsline {chapter}{\numberline {A}Abbildungsverzeichnis}{45}{appendix.A}%
 \contentsline {chapter}{\numberline {B}Anträge auf Regeländerungen}{49}{appendix.B}%
-\contentsline {chapter}{\numberline {C}RegelPDF}{61}{appendix.C}%
+\contentsline {chapter}{\numberline {C}RegelPDF}{63}{appendix.C}%
