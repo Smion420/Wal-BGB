@@ -1,0 +1,25 @@
+# LaTeX temporäre Dateien
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.nav
+*.snm
+*.vrb
+*.lof
+*.lot
+*.lol
+
+# Zwischendateien von BibTeX/Biber
+*.bcf
+*.run.xml
+
+# temporäre Editor-Dateien
+*.swp
+*.bak
