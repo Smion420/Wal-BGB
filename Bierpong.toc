@@ -12,17 +12,18 @@
 \contentsline {subsection}{\numberline {3.2.1}Vor dem Spiel}{17}{subsection.3.2.1}%
 \contentsline {subsubsection}{\numberline {3.2.1.1}Teameinteilung}{17}{subsubsection.3.2.1.1}%
 \contentsline {subsubsection}{\numberline {3.2.1.2}Seiteneinteilung}{17}{subsubsection.3.2.1.2}%
-\contentsline {subsubsection}{\numberline {3.2.1.3}Entscheiden, wer anfängt}{18}{subsubsection.3.2.1.3}%
+\contentsline {subsubsection}{\numberline {3.2.1.3}Gerade oder Ungerade}{18}{subsubsection.3.2.1.3}%
+\contentsline {subsubsection}{\numberline {3.2.1.4}Entscheiden, wer anfängt}{18}{subsubsection.3.2.1.4}%
 \contentsline {subsection}{\numberline {3.2.2}Spiel}{19}{subsection.3.2.2}%
 \contentsline {subsubsection}{\numberline {3.2.2.1}Umstellphase}{20}{subsubsection.3.2.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2.2}Reguläre Wurfphase}{21}{subsubsection.3.2.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.2}Reguläre Wurfphase}{23}{subsubsection.3.2.2.2}%
 \contentsline {subsubsection}{\numberline {3.2.2.3}BallsBackphase}{23}{subsubsection.3.2.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.2.4}OnFirephase}{23}{subsubsection.3.2.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.2.4}OnFirephase}{24}{subsubsection.3.2.2.4}%
 \contentsline {subsubsection}{\numberline {3.2.2.5}Trickshotphase}{24}{subsubsection.3.2.2.5}%
 \contentsline {subsection}{\numberline {3.2.3}Spielende}{25}{subsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.3.1}Übrige Becher trinken}{25}{subsubsection.3.2.3.1}%
+\contentsline {subsubsection}{\numberline {3.2.3.1}Übrige Becher trinken}{26}{subsubsection.3.2.3.1}%
 \contentsline {subsubsection}{\numberline {3.2.3.2}Nackte Meile}{26}{subsubsection.3.2.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.3.3}Foto}{26}{subsubsection.3.2.3.3}%
+\contentsline {subsubsection}{\numberline {3.2.3.3}Foto}{27}{subsubsection.3.2.3.3}%
 \contentsline {chapter}{\numberline {4}Weitere Regeln}{29}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Bombe}{29}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Ellenbogen}{30}{section.4.2}%
@@ -50,6 +51,7 @@
 \contentsline {subsection}{\numberline {4.20.1}liegen bleiben}{42}{subsection.4.20.1}%
 \contentsline {subsection}{\numberline {4.20.2}springen}{42}{subsection.4.20.2}%
 \contentsline {part}{II\hspace {1em}Anhang}{43}{part.2}%
-\contentsline {chapter}{\numberline {A}Abbildungsverzeichnis}{45}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Anträge auf Regeländerungen}{49}{appendix.B}%
-\contentsline {chapter}{\numberline {C}RegelPDF}{63}{appendix.C}%
+\contentsline {chapter}{\numberline {A}Patchnotes}{45}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Abbildungsverzeichnis}{47}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Anträge auf Regeländerungen}{51}{appendix.C}%
+\contentsline {chapter}{\numberline {D}RegelPDF}{65}{appendix.D}%
