@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.8.25)  19 SEP 2025 18:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.8.25)  22 SEP 2025 18:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -383,7 +383,7 @@ l.16 ..., wer anfängt}{18}{subsubsection.3.2.1.4}
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.40 ...line {4.13}Communitycup}{37}{section.4.13}
+l.40 ...line {4.13}Communitycup}{38}{section.4.13}
                                                   % [6])
 \tf@toc=\write4
 \openout4 = `Bierpong.toc'.
@@ -436,21 +436,21 @@ Kapitel 2.
 Underfull \vbox (badness 4505) has occurred while \output is active []
 
  [11]
-<beerpongregeln_ohne_legende.png, id=379, 1903.11pt x 4085.2625pt>
-File: beerpongregeln_ohne_legende.png Graphic file (type png)
-<use beerpongregeln_ohne_legende.png>
-Package pdftex.def Info: beerpongregeln_ohne_legende.png  used on input line 122.
+<Grafiken/beerpongregeln_ohne_legende.png, id=379, 1903.11pt x 4085.2625pt>
+File: Grafiken/beerpongregeln_ohne_legende.png Graphic file (type png)
+<use Grafiken/beerpongregeln_ohne_legende.png>
+Package pdftex.def Info: Grafiken/beerpongregeln_ohne_legende.png  used on input line 122.
 (pdftex.def)             Requested size: 199.46588pt x 428.12369pt.
-<legende.png, id=381, 1178.4025pt x 1178.4025pt>
-File: legende.png Graphic file (type png)
-<use legende.png>
-Package pdftex.def Info: legende.png  used on input line 128.
+<Grafiken/legende.png, id=381, 1178.4025pt x 1178.4025pt>
+File: Grafiken/legende.png Graphic file (type png)
+<use Grafiken/legende.png>
+Package pdftex.def Info: Grafiken/legende.png  used on input line 128.
 (pdftex.def)             Requested size: 83.83125pt x 83.8272pt.
 
 
 LaTeX Warning: Float too large for page by 110.87367pt on input line 133.
 
-[12] [13 <./beerpongregeln_ohne_legende.png> <./legende.png>] [14
+[12] [13 <./Grafiken/beerpongregeln_ohne_legende.png> <./Grafiken/legende.png>] [14
 
 ]
 Kapitel 3.
@@ -459,10 +459,10 @@ Overfull \hbox (28.56952pt too wide) in paragraph at lines 137--138
 \OT1/cmr/m/n/12 Bierpong-spiels sche-ma-tisch dar-ge-stellt. Ge-naue-re Er-kl[]arungen
  []
 
-<Bierpongflowneu.png, id=398, 1268.74pt x 1276.77pt>
-File: Bierpongflowneu.png Graphic file (type png)
-<use Bierpongflowneu.png>
-Package pdftex.def Info: Bierpongflowneu.png  used on input line 141.
+<Grafiken/Bierpongflowneu.png, id=398, 1268.74pt x 1276.77pt>
+File: Grafiken/Bierpongflowneu.png Graphic file (type png)
+<use Grafiken/Bierpongflowneu.png>
+Package pdftex.def Info: Grafiken/Bierpongflowneu.png  used on input line 141.
 (pdftex.def)             Requested size: 342.56438pt x 344.73251pt.
 
 Overfull \hbox (10.80527pt too wide) in paragraph at lines 141--142
@@ -475,7 +475,7 @@ LaTeX Warning: Float too large for page by 7.8825pt on input line 144.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15] [16 <./Bierpongflowneu.png>] [17]
+ [15] [16 <./Grafiken/Bierpongflowneu.png>] [17]
 Underfull \hbox (badness 10000) in paragraph at lines 156--160
 
  []
@@ -516,33 +516,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--166
  []
 
 [19]
-<enge_muschi.png, id=427, 1469.49pt x 1399.2275pt>
-File: enge_muschi.png Graphic file (type png)
-<use enge_muschi.png>
-Package pdftex.def Info: enge_muschi.png  used on input line 175.
+<Grafiken/enge_muschi.png, id=429, 1469.49pt x 1399.2275pt>
+File: Grafiken/enge_muschi.png Graphic file (type png)
+<use Grafiken/enge_muschi.png>
+Package pdftex.def Info: Grafiken/enge_muschi.png  used on input line 175.
 (pdftex.def)             Requested size: 125.46237pt x 119.45584pt.
-<no1.png, id=428, 1469.49pt x 1399.2275pt>
-File: no1.png Graphic file (type png)
-<use no1.png>
-Package pdftex.def Info: no1.png  used on input line 183.
+<Grafiken/stellung3.png, id=430, 1469.49pt x 1399.2275pt>
+File: Grafiken/stellung3.png Graphic file (type png)
+<use Grafiken/stellung3.png>
+Package pdftex.def Info: Grafiken/stellung3.png  used on input line 183.
 (pdftex.def)             Requested size: 125.46237pt x 119.45584pt.
-<no2.png, id=429, 1469.49pt x 1399.2275pt>
-File: no2.png Graphic file (type png)
-<use no2.png>
-Package pdftex.def Info: no2.png  used on input line 190.
+<Grafiken/stellung5.png, id=431, 1469.49pt x 1399.2275pt>
+File: Grafiken/stellung5.png Graphic file (type png)
+<use Grafiken/stellung5.png>
+Package pdftex.def Info: Grafiken/stellung5.png  used on input line 190.
 (pdftex.def)             Requested size: 125.46237pt x 119.45584pt.
-<yes1.png, id=430, 1469.49pt x 1399.2275pt>
-File: yes1.png Graphic file (type png)
-<use yes1.png>
-Package pdftex.def Info: yes1.png  used on input line 196.
+<Grafiken/stellung7.png, id=432, 1469.49pt x 1399.2275pt>
+File: Grafiken/stellung7.png Graphic file (type png)
+<use Grafiken/stellung7.png>
+Package pdftex.def Info: Grafiken/stellung7.png  used on input line 196.
+(pdftex.def)             Requested size: 125.46237pt x 119.45584pt.
+<Grafiken/stellung8.png, id=433, 1469.49pt x 1399.2275pt>
+File: Grafiken/stellung8.png Graphic file (type png)
+<use Grafiken/stellung8.png>
+Package pdftex.def Info: Grafiken/stellung8.png  used on input line 202.
+(pdftex.def)             Requested size: 125.46237pt x 119.45584pt.
+<Grafiken/stellung1.png, id=434, 1469.49pt x 1399.2275pt>
+File: Grafiken/stellung1.png Graphic file (type png)
+<use Grafiken/stellung1.png>
+Package pdftex.def Info: Grafiken/stellung1.png  used on input line 212.
+(pdftex.def)             Requested size: 125.46237pt x 119.45584pt.
+<Grafiken/stellung2.png, id=435, 1469.49pt x 1399.2275pt>
+File: Grafiken/stellung2.png Graphic file (type png)
+<use Grafiken/stellung2.png>
+Package pdftex.def Info: Grafiken/stellung2.png  used on input line 219.
+(pdftex.def)             Requested size: 125.46237pt x 119.45584pt.
+<Grafiken/stellung4.png, id=436, 1469.49pt x 1399.2275pt>
+File: Grafiken/stellung4.png Graphic file (type png)
+<use Grafiken/stellung4.png>
+Package pdftex.def Info: Grafiken/stellung4.png  used on input line 225.
+(pdftex.def)             Requested size: 125.46237pt x 119.45584pt.
+<Grafiken/stellung6.png, id=437, 1469.49pt x 1399.2275pt>
+File: Grafiken/stellung6.png Graphic file (type png)
+<use Grafiken/stellung6.png>
+Package pdftex.def Info: Grafiken/stellung6.png  used on input line 231.
 (pdftex.def)             Requested size: 125.46237pt x 119.45584pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--203
+Underfull \hbox (badness 10000) in paragraph at lines 171--238
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--203
+Underfull \hbox (badness 10000) in paragraph at lines 171--238
 
  []
 
@@ -551,187 +576,187 @@ Underfull \hbox (badness 10000) in paragraph at lines 171--203
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--205
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--240
 
  []
 
-
-Overfull \hbox (2.02116pt too wide) in paragraph at lines 208--209
+[21 <./Grafiken/enge_muschi.png>]
+Overfull \hbox (2.02116pt too wide) in paragraph at lines 243--244
 \OT1/cmr/m/n/12 Beide Spie-le-rin-nen ei-nes Teams d[]urfen nach-ein-an-der, oder
  []
 
 
-Overfull \hbox (40.30826pt too wide) in paragraph at lines 208--209
+Overfull \hbox (40.30826pt too wide) in paragraph at lines 243--244
 \OT1/cmr/m/n/12 gleich-zei-tig, ganz wie sie wol-len, einen Stan-dard-wurf durchf[]uhren. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--209
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
-[21 <./enge_muschi.png>]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22 <./no1.png> <./no2.png> <./yes1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 211--213
+ [22 <./Grafiken/stellung3.png> <./Grafiken/stellung5.png> <./Grafiken/stellung7.png> <./Grafiken/stellung8.png>]
+Underfull \vbox (badness 3895) has occurred while \output is active []
+
+ [23 <./Grafiken/stellung1.png> <./Grafiken/stellung2.png> <./Grafiken/stellung4.png> <./Grafiken/stellung6.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 246--248
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--216
+Underfull \hbox (badness 10000) in paragraph at lines 248--251
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--222
+Underfull \hbox (badness 10000) in paragraph at lines 255--257
 
  []
 
 
-Overfull \hbox (14.38908pt too wide) in paragraph at lines 220--222
+Overfull \hbox (14.38908pt too wide) in paragraph at lines 255--257
 \OT1/cmr/m/n/12 Startbedingungen: Min-des-tens ei-ne Spie-le-rin des Teams,
  []
 
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 222--226
-
- []
-
-
-LaTeX Warning: Reference `sub:trickshotstackss' on page 24 undefined on input line 232.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 231--233
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 233--235
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 233--235
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 233--235
-
- []
-
 [24]
-Overfull \hbox (9.68913pt too wide) in paragraph at lines 246--247
-\OT1/cmr/m/n/12 ner-team noch auf dem Tisch ste-hen trin-ken. Hier-bei k[]onnen
+Underfull \hbox (badness 10000) in paragraph at lines 257--261
+
+ []
+
+
+LaTeX Warning: Reference `sub:trickshotstackss' on page 25 undefined on input line 267.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--268
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--270
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--270
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--270
+
  []
 
 [25]
-Overfull \hbox (15.23352pt too wide) in paragraph at lines 248--253
+Overfull \hbox (9.68913pt too wide) in paragraph at lines 281--282
+\OT1/cmr/m/n/12 ner-team noch auf dem Tisch ste-hen trin-ken. Hier-bei k[]onnen
+ []
+
+[26]
+Overfull \hbox (15.23352pt too wide) in paragraph at lines 283--288
 \OT1/cmr/m/n/12 Wenn meh-re-re Spie-le-rin-nen ei-ne nack-te Mei-le lau-fen m[]ussen,
  []
 
-<bilder.png, id=479, 1029.8475pt x 1029.8475pt>
-File: bilder.png Graphic file (type png)
-<use bilder.png>
-Package pdftex.def Info: bilder.png  used on input line 258.
+<Grafiken/bilder.png, id=497, 1029.8475pt x 1029.8475pt>
+File: Grafiken/bilder.png Graphic file (type png)
+<use Grafiken/bilder.png>
+Package pdftex.def Info: Grafiken/bilder.png  used on input line 293.
 (pdftex.def)             Requested size: 102.99078pt x 102.99078pt.
 
 Underfull \vbox (badness 6691) has occurred while \output is active []
 
- [26] [27 <./Bilder.png>] [28
-
-]
+ [27] [28 <./Grafiken/Bilder.png>]
 Kapitel 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--268
+Underfull \hbox (badness 10000) in paragraph at lines 300--303
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--268
+Underfull \hbox (badness 10000) in paragraph at lines 300--303
 
  []
 
-[29] [30]
+[29
 
-LaTeX Warning: Reference `sec:entscheidenweranfängt' on page 31 undefined on input line 281.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 279--283
+] [30]
+Underfull \hbox (badness 10000) in paragraph at lines 314--318
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--283
+Underfull \hbox (badness 10000) in paragraph at lines 314--318
 
  []
 
 [31]
-Underfull \hbox (badness 10000) in paragraph at lines 285--287
+Underfull \hbox (badness 10000) in paragraph at lines 320--322
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--322
 
  []
 
 [32] [33]
-
-LaTeX Warning: Reference `sec:nacktemeile' on page 34 undefined on input line 298.
-
-
-Overfull \hbox (3.94891pt too wide) in paragraph at lines 297--301
-\OT1/cmr/m/n/12 wenn es je-man-dem un-an-ge-nehm ist sich aus-zu-zie-hen, dann
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 297--301
+Underfull \hbox (badness 10000) in paragraph at lines 333--337
 
  []
 
-[34]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [35]
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
+[34] [35]
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
 
  []
 
-
-Underfull \vbox (badness 1371) has occurred while \output is active []
-
- [36]
-Overfull \hbox (3.24615pt too wide) in paragraph at lines 314--317
+[36]
+Overfull \hbox (3.24615pt too wide) in paragraph at lines 352--357
 \OT1/cmr/m/n/12 be-kommt das Geg-ner-team zwei zus[]atzliche Stan-dardw[]urfe
  []
 
 
-Overfull \hbox (1.29895pt too wide) in paragraph at lines 314--317
+Overfull \hbox (1.29895pt too wide) in paragraph at lines 352--357
 \OT1/cmr/m/n/12 kann zur Dis-qua-li-fi-ka-ti-on f[]uhren, vor al-lem wenn der Wurf
  []
 
 
-Overfull \hbox (1.07672pt too wide) in paragraph at lines 319--320
+Underfull \hbox (badness 10000) in paragraph at lines 352--357
+
+ []
+
+[37]
+Overfull \hbox (1.07672pt too wide) in paragraph at lines 359--360
 \OT1/cmr/m/n/12 Tisch-rand ste-hen, dann m[]ussen al-le Zu-schaue-rin-nen einen
  []
 
-[37] [38]
-Overfull \hbox (10.92525pt too wide) in paragraph at lines 332--333
+
+Underfull \vbox (badness 1728) has occurred while \output is active []
+
+ [38]
+Overfull \hbox (10.92525pt too wide) in paragraph at lines 372--373
 []\OT1/cmr/m/n/12 Die Py-ra-mi-de f[]ur die Verl[]angerung stel-len und auff[]ullen 
  []
 
-[39]
-Overfull \hbox (29.27226pt too wide) in paragraph at lines 350--351
+[39] [40]
+Overfull \hbox (29.27226pt too wide) in paragraph at lines 390--391
 \OT1/cmr/m/n/12 Null zur[]uckgesetzt, wenn ent-we-der ein Stan-dard-wurf/Trickshot
  []
 
-[40]
-Overfull \hbox (0.18507pt too wide) in paragraph at lines 352--353
+
+Overfull \hbox (0.18507pt too wide) in paragraph at lines 392--393
 \OT1/cmr/m/n/12 Wenn ei-ne Spie-le-rin Drei OnIce-Stacks hat, muss sie einen
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1365) has occurred while \output is active []
 
  [41]
-Overfull \hbox (4.30171pt too wide) in paragraph at lines 359--360
+Overfull \hbox (4.30171pt too wide) in paragraph at lines 399--400
 \OT1/cmr/m/n/12 Springt ein Ball auf den Be-chern/dem Be-cher ei-nes Teams,
  []
 
@@ -739,28 +764,67 @@ Overfull \hbox (4.30171pt too wide) in paragraph at lines 359--360
 
 ] [44]
 Anhang A.
-[45
 
-] [46
+Package hyperref Warning: Suppressing empty link on input line 407.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--427
+
+ []
+
+
+Overfull \hbox (28.44844pt too wide) in paragraph at lines 403--427
+\OT1/cmr/m/n/12 Statt Wal-WG oder nur WG wird im-mer Wal-WG\TS1/cmr/m/n/12 �\OT1/cmr/m/n/12 geschrieben 
+ []
+
+
+Overfull \hbox (3.26143pt too wide) in paragraph at lines 403--427
+\OT1/cmr/m/n/12 mehr Ein-lei-tung, au-^^Yer-dem wur-de ei-ni-ges hin-zu-gef[]ugt und
+ []
+
+
+Overfull \hbox (9.03638pt too wide) in paragraph at lines 403--427
+\OT1/cmr/m/n/12 Es ist jetzt auf-ge-schrie-ben, dass die on-Fi-re-pha-se tats[]achlich
+ []
+
+
+Overfull \hbox (1.22952pt too wide) in paragraph at lines 403--427
+\OT1/cmr/m/n/12 Die Mess-me-tho-de und das Leer-ge-wicht ei-nes Be-chers wur-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--427
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46] [47] [48
 
 ]
 Anhang B.
-[47] [48
+[49] [50
 
 ] (./Bierpong.lof)
 \tf@lof=\write5
 \openout5 = `Bierpong.lof'.
 
- [49] [50
+ [51] [52
 
 ]
 Anhang C.
 
-Underfull \hbox (badness 10000) in paragraph at lines 366--366
+Underfull \hbox (badness 10000) in paragraph at lines 431--431
 
  []
 
-[51]
+[53]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a5paper
@@ -795,17 +859,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 366--366
 
 
 Overfull \hbox (14.20331pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/12 52 \OT1/cmr/m/sl/12 ANHANG C.  ANTR[]AGE AUF REGEL[]ANDERUNGEN
- []
-
-[52
-
-] [53]
-Overfull \hbox (14.20331pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/12 54 \OT1/cmr/m/sl/12 ANHANG C.  ANTR[]AGE AUF REGEL[]ANDERUNGEN
  []
 
-[54] [55]
+[54
+
+] [55]
 Overfull \hbox (14.20331pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/12 56 \OT1/cmr/m/sl/12 ANHANG C.  ANTR[]AGE AUF REGEL[]ANDERUNGEN
  []
@@ -830,17 +889,22 @@ Overfull \hbox (14.20331pt too wide) has occurred while \output is active
 \OT1/cmr/m/n/12 64 \OT1/cmr/m/sl/12 ANHANG C.  ANTR[]AGE AUF REGEL[]ANDERUNGEN
  []
 
-[64]
+[64] [65]
+Overfull \hbox (14.20331pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/12 66 \OT1/cmr/m/sl/12 ANHANG C.  ANTR[]AGE AUF REGEL[]ANDERUNGEN
+ []
+
+[66]
 Anhang D.
-<Bierpongregeln.png, id=677, 1029.8475pt x 1029.8475pt>
-File: Bierpongregeln.png Graphic file (type png)
-<use Bierpongregeln.png>
-Package pdftex.def Info: Bierpongregeln.png  used on input line 386.
+<Grafiken/Bierpongregeln.png, id=726, 1029.8475pt x 1029.8475pt>
+File: Grafiken/Bierpongregeln.png Graphic file (type png)
+<use Grafiken/Bierpongregeln.png>
+Package pdftex.def Info: Grafiken/Bierpongregeln.png  used on input line 451.
 (pdftex.def)             Requested size: 102.99078pt x 102.99078pt.
-[65
+[67
 
 
-] [66 <./Bierpongregeln.png>] (./Bierpong.aux)
+] [68 <./Grafiken/Bierpongregeln.png>] (./Bierpong.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -853,18 +917,18 @@ Package rerunfilecheck Info: File `Bierpong.out' has not changed.
 (rerunfilecheck)             Checksum: 4383A6F20A4DE77F9318B63AE1183098;6915.
  ) 
 Here is how much of TeX's memory you used:
- 11829 strings out of 474222
- 192025 string characters out of 5748733
+ 11857 strings out of 474222
+ 193731 string characters out of 5748733
  1932975 words of memory out of 5000000
- 33800 multiletter control sequences out of 15000+600000
+ 33823 multiletter control sequences out of 15000+600000
  564606 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,717b,670s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,717b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on Bierpong.pdf (74 pages, 26642930 bytes).
+Output written on Bierpong.pdf (76 pages, 46112869 bytes).
 PDF statistics:
- 764 PDF objects out of 1000 (max. 8388607)
- 647 compressed objects within 7 object streams
- 163 named destinations out of 1000 (max. 500000)
- 494 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 812 PDF objects out of 1000 (max. 8388607)
+ 683 compressed objects within 7 object streams
+ 168 named destinations out of 1000 (max. 500000)
+ 519 words of extra memory for PDF output out of 10000 (max. 10000000)
 
