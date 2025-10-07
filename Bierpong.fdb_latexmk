@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1758558560.2102 "/home/smion/Bierpongbuch/Bierpong.tex" "Bierpong.pdf" "Bierpong" 1758558566.59243 0
+["pdflatex"] 1759862764.25182 "/home/smion/Bierpongbuch/Bierpong.tex" "Bierpong.pdf" "Bierpong" 1759862770.26109 0
   "/etc/texmf/web2c/texmf.cnf" 1756138840.59412 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/smion/Bierpongbuch/Bierpong.tex" 1758558553.63364 36947 3772ab459a44819edf31a09b2c2eba18 ""
+  "/home/smion/Bierpongbuch/Bierpong.tex" 1759862756.84015 37900 0cc4f02bbd096ba36b02d9021907438d ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1440.tfm" 1136768653 1536 3290a75021d32d016616fe527bc9884c ""
@@ -86,11 +86,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1756138872.5358 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1756138988 8213585 f566e8a76dab553efdc7a5ad9287718d ""
-  "Bierpong.aux" 1758558566.51363 13409 0938d86b8ad2ad741f25f77d38f8e138 "pdflatex"
-  "Bierpong.lof" 1758558566.51363 906 9c495d8c9a4579c74786abbafe5670c1 "pdflatex"
-  "Bierpong.out" 1758558566.51363 6915 4383a6f20a4de77f9318b63ae1183098 "pdflatex"
-  "Bierpong.tex" 1758558553.63364 36947 3772ab459a44819edf31a09b2c2eba18 ""
-  "Bierpong.toc" 1758558566.51363 4449 88f06833dcf0b793ff74e17c99e0913f "pdflatex"
+  "Bierpong.aux" 1759862770.18098 13621 493656ebe4b152e86b45a5b53e2d751b "pdflatex"
+  "Bierpong.lof" 1759862770.18098 906 3272be5f4f3b0283f115dd6762a52917 "pdflatex"
+  "Bierpong.out" 1759862770.18098 7081 f5df630f3cbfc490f9315142446b9c79 "pdflatex"
+  "Bierpong.tex" 1759862756.84015 37900 0cc4f02bbd096ba36b02d9021907438d ""
+  "Bierpong.toc" 1759862770.18098 4539 050ac6961f807af95d6f58cc2ec9909e "pdflatex"
   "Grafiken/Bierpongflowneu.png" 1757615291.29379 110629 01a6212adfe639cbe207dca66dda49c9 ""
   "Grafiken/Bierpongregeln.png" 1757615291.27719 23758 db972a9775218b1920ec07f1311d34c8 ""
   "Grafiken/Bilder.png" 1757615291.28225 23533 17c1414583b9e3c36497b686f2307023 ""

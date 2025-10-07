@@ -17,41 +17,42 @@
 \contentsline {subsection}{\numberline {3.2.2}Spiel}{19}{subsection.3.2.2}%
 \contentsline {subsubsection}{\numberline {3.2.2.1}Umstellphase}{20}{subsubsection.3.2.2.1}%
 \contentsline {subsubsection}{\numberline {3.2.2.2}Reguläre Wurfphase}{23}{subsubsection.3.2.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.2.3}BallsBackphase}{24}{subsubsection.3.2.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.2.3}BallsBackphase}{23}{subsubsection.3.2.2.3}%
 \contentsline {subsubsection}{\numberline {3.2.2.4}OnFirephase}{24}{subsubsection.3.2.2.4}%
-\contentsline {subsubsection}{\numberline {3.2.2.5}Trickshotphase}{25}{subsubsection.3.2.2.5}%
-\contentsline {subsection}{\numberline {3.2.3}Spielende}{26}{subsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.3.1}Übrige Becher trinken}{27}{subsubsection.3.2.3.1}%
-\contentsline {subsubsection}{\numberline {3.2.3.2}Nackte Meile}{27}{subsubsection.3.2.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.3.3}Foto}{28}{subsubsection.3.2.3.3}%
-\contentsline {chapter}{\numberline {4}Weitere Regeln}{29}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Bombe}{29}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Ellenbogen}{30}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Redemption}{31}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Aufsetzer}{32}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Deathcup}{33}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Island}{33}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Letzter}{34}{section.4.7}%
-\contentsline {section}{\numberline {4.8}Bitchcup}{34}{section.4.8}%
-\contentsline {section}{\numberline {4.9}Fingern/Blasen}{35}{section.4.9}%
-\contentsline {section}{\numberline {4.10}80ml}{36}{section.4.10}%
-\contentsline {section}{\numberline {4.11}Weltraumlaser}{36}{section.4.11}%
-\contentsline {section}{\numberline {4.12}Ball im Flug berühren}{37}{section.4.12}%
-\contentsline {section}{\numberline {4.13}Communitycup}{38}{section.4.13}%
-\contentsline {section}{\numberline {4.14}Becher vorstellen}{38}{section.4.14}%
-\contentsline {section}{\numberline {4.15}Becher berühren}{39}{section.4.15}%
-\contentsline {section}{\numberline {4.16}Airball}{39}{section.4.16}%
-\contentsline {section}{\numberline {4.17}Stacks}{40}{section.4.17}%
-\contentsline {subsection}{\numberline {4.17.1}Trickshot Stacks}{40}{subsection.4.17.1}%
-\contentsline {subsection}{\numberline {4.17.2}OnFire-Stacks}{41}{subsection.4.17.2}%
-\contentsline {subsection}{\numberline {4.17.3}OnIce-Stacks}{41}{subsection.4.17.3}%
-\contentsline {section}{\numberline {4.18}Nervenberuhigungsbecher}{41}{section.4.18}%
-\contentsline {section}{\numberline {4.19}Behinderung}{42}{section.4.19}%
-\contentsline {section}{\numberline {4.20}Ball auf Becher}{42}{section.4.20}%
-\contentsline {subsection}{\numberline {4.20.1}liegen bleiben}{42}{subsection.4.20.1}%
-\contentsline {subsection}{\numberline {4.20.2}springen}{42}{subsection.4.20.2}%
-\contentsline {part}{II\hspace {1em}Anhang}{43}{part.2}%
-\contentsline {chapter}{\numberline {A}Patchnotes}{45}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Abbildungsverzeichnis}{49}{appendix.B}%
-\contentsline {chapter}{\numberline {C}Anträge auf Regeländerungen}{53}{appendix.C}%
-\contentsline {chapter}{\numberline {D}RegelPDF}{67}{appendix.D}%
+\contentsline {subsubsection}{\numberline {3.2.2.5}Trickshotphase}{24}{subsubsection.3.2.2.5}%
+\contentsline {subsection}{\numberline {3.2.3}Spielende}{25}{subsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.3.1}Übrige Becher trinken}{26}{subsubsection.3.2.3.1}%
+\contentsline {subsubsection}{\numberline {3.2.3.2}Nackte Meile}{26}{subsubsection.3.2.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.3.3}Foto}{27}{subsubsection.3.2.3.3}%
+\contentsline {chapter}{\numberline {4}Weitere Regeln}{31}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Bombe}{31}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Ellenbogen}{32}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Redemption}{33}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Aufsetzer}{34}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Deathcup}{35}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Island}{35}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Was ist eine Insel?}{36}{subsection.4.6.1}%
+\contentsline {section}{\numberline {4.7}Letzter}{37}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Bitchcup}{37}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Fingern/Blasen}{38}{section.4.9}%
+\contentsline {section}{\numberline {4.10}80ml}{38}{section.4.10}%
+\contentsline {section}{\numberline {4.11}Weltraumlaser}{39}{section.4.11}%
+\contentsline {section}{\numberline {4.12}Ball im Flug berühren}{39}{section.4.12}%
+\contentsline {section}{\numberline {4.13}Communitycup}{40}{section.4.13}%
+\contentsline {section}{\numberline {4.14}Becher vorstellen}{41}{section.4.14}%
+\contentsline {section}{\numberline {4.15}Becher berühren}{41}{section.4.15}%
+\contentsline {section}{\numberline {4.16}Airball}{42}{section.4.16}%
+\contentsline {section}{\numberline {4.17}Stacks}{42}{section.4.17}%
+\contentsline {subsection}{\numberline {4.17.1}Trickshot Stacks}{43}{subsection.4.17.1}%
+\contentsline {subsection}{\numberline {4.17.2}OnFire-Stacks}{43}{subsection.4.17.2}%
+\contentsline {subsection}{\numberline {4.17.3}OnIce-Stacks}{44}{subsection.4.17.3}%
+\contentsline {section}{\numberline {4.18}Nervenberuhigungsbecher}{44}{section.4.18}%
+\contentsline {section}{\numberline {4.19}Behinderung}{44}{section.4.19}%
+\contentsline {section}{\numberline {4.20}Ball auf Becher}{45}{section.4.20}%
+\contentsline {subsection}{\numberline {4.20.1}Liegen bleiben}{45}{subsection.4.20.1}%
+\contentsline {subsection}{\numberline {4.20.2}Springen}{45}{subsection.4.20.2}%
+\contentsline {part}{II\hspace {1em}Anhang}{47}{part.2}%
+\contentsline {chapter}{\numberline {A}Patchnotes}{49}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Abbildungsverzeichnis}{53}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Anträge auf Regeländerungen}{57}{appendix.C}%
+\contentsline {chapter}{\numberline {D}RegelPDF}{71}{appendix.D}%
