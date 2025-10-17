@@ -55,4 +55,4 @@
 \contentsline {chapter}{\numberline {A}Patchnotes}{49}{appendix.A}%
 \contentsline {chapter}{\numberline {B}Abbildungsverzeichnis}{53}{appendix.B}%
 \contentsline {chapter}{\numberline {C}Anträge auf Regeländerungen}{57}{appendix.C}%
-\contentsline {chapter}{\numberline {D}RegelPDF}{71}{appendix.D}%
+\contentsline {chapter}{\numberline {D}Links}{71}{appendix.D}%
