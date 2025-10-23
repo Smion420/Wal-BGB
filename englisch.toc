@@ -1,0 +1,64 @@
+\contentsline {part}{I\hspace {1em}Rules}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}Definitions}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Drinking a Cup}{5}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Standard Throw}{6}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Trickshot}{6}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Score}{7}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Game Setup}{9}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Game Procedure}{13}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Sketch of the Game Procedure}{13}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Detailed Regulations}{14}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Before the Game}{14}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.1}Team Formation}{14}{subsubsection.3.2.1.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.2}Side Selection}{14}{subsubsection.3.2.1.2}%
+\contentsline {subsubsection}{\numberline {3.2.1.3}Even or Odd}{15}{subsubsection.3.2.1.3}%
+\contentsline {subsubsection}{\numberline {3.2.1.4}Deciding Who Starts}{15}{subsubsection.3.2.1.4}%
+\contentsline {paragraph}{Eye to Eye:}{15}{section*.5}%
+\contentsline {subsection}{\numberline {3.2.2}Game}{16}{subsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.1}Rearrangement Phase}{17}{subsubsection.3.2.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2.2}Regular Throw Phase}{18}{subsubsection.3.2.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.3}BallsBack Phase}{18}{subsubsection.3.2.2.3}%
+\contentsline {paragraph}{(1) Starting Conditions:}{18}{section*.9}%
+\contentsline {paragraph}{(2) Execution:}{18}{section*.10}%
+\contentsline {subsubsection}{\numberline {3.2.2.4}OnFire Phase}{18}{subsubsection.3.2.2.4}%
+\contentsline {paragraph}{(1) Starting Conditions:}{18}{section*.11}%
+\contentsline {paragraph}{(2) Execution:}{18}{section*.12}%
+\contentsline {subsubsection}{\numberline {3.2.2.5}Trickshot Phase}{19}{subsubsection.3.2.2.5}%
+\contentsline {paragraph}{(1) Starting Conditions:}{19}{section*.13}%
+\contentsline {paragraph}{(2) Execution:}{19}{section*.14}%
+\contentsline {subsection}{\numberline {3.2.3}End of the Game}{19}{subsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.3.1}Drinking Remaining Cups}{20}{subsubsection.3.2.3.1}%
+\contentsline {subsubsection}{\numberline {3.2.3.2}Naked Mile}{20}{subsubsection.3.2.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.3.3}Photo}{21}{subsubsection.3.2.3.3}%
+\contentsline {chapter}{\numberline {4}Further Rules}{27}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Bomb}{27}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Elbow}{28}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Redemption}{28}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Bounce Shot}{30}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Deathcup}{30}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Island}{31}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}What Is an Island?}{31}{subsection.4.6.1}%
+\contentsline {section}{\numberline {4.7}Last Cup}{32}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Bitchcup}{32}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Fingering / Blowing}{33}{section.4.9}%
+\contentsline {section}{\numberline {4.10}80 ml}{33}{section.4.10}%
+\contentsline {section}{\numberline {4.11}Space Laser}{34}{section.4.11}%
+\contentsline {section}{\numberline {4.12}Touching the Ball in Flight}{34}{section.4.12}%
+\contentsline {section}{\numberline {4.13}Community Cup}{35}{section.4.13}%
+\contentsline {section}{\numberline {4.14}Moving Cups forward}{36}{section.4.14}%
+\contentsline {section}{\numberline {4.15}Touching Cups}{36}{section.4.15}%
+\contentsline {section}{\numberline {4.16}Airball}{37}{section.4.16}%
+\contentsline {section}{\numberline {4.17}Stacks}{37}{section.4.17}%
+\contentsline {subsection}{\numberline {4.17.1}Trickshot Stacks}{37}{subsection.4.17.1}%
+\contentsline {subsection}{\numberline {4.17.2}OnFire Stacks}{38}{subsection.4.17.2}%
+\contentsline {subsection}{\numberline {4.17.3}OnIce Stacks}{38}{subsection.4.17.3}%
+\contentsline {section}{\numberline {4.18}Calming Cup}{39}{section.4.18}%
+\contentsline {section}{\numberline {4.19}Obstruction}{39}{section.4.19}%
+\contentsline {section}{\numberline {4.20}Ball on Cup}{39}{section.4.20}%
+\contentsline {subsection}{\numberline {4.20.1}Staying Put}{39}{subsection.4.20.1}%
+\contentsline {subsection}{\numberline {4.20.2}Bouncing}{39}{subsection.4.20.2}%
+\contentsline {part}{II\hspace {1em}Anhang}{41}{part.2}%
+\contentsline {chapter}{\numberline {A}Patch Notes}{43}{appendix.A}%
+\contentsline {chapter}{\numberline {B}List of Figures}{47}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Request for rulechanges}{51}{appendix.C}%
+\contentsline {chapter}{\numberline {D}Links}{65}{appendix.D}%
